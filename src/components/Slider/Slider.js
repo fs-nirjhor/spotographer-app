@@ -13,7 +13,7 @@ function Slider() {
           <Image fluid className="d-block" src={image} alt="Slider" />
           <Carousel.Caption className="py-1">
             <h5>SPOTOGRAPHER</h5>
-            <h3>Sports Photographer</h3>
+            <h2>Sports Photographer</h2>
             <p>I Capture Sports Moments and Actions.</p>
             <Button variant="outline" className="my-btn">
               MORE ABOUT ME
