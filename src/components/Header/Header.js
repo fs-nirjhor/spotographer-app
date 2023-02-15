@@ -17,7 +17,7 @@ function Header() {
               <Nav.Link as={NavLink} to="/">Home</Nav.Link>
               <Nav.Link as={NavLink} to="/about">About</Nav.Link>
               <Nav.Link as={NavLink} to="/blog">Blog</Nav.Link>
-              <Nav.Link as={NavLink} to="/login" className="btn my-btn px-3">
+              <Nav.Link as={NavLink} to="/login" className="my-btn btn px-3" id="nav-login">
                 Login
               </Nav.Link>
             </Nav>

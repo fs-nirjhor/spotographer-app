@@ -4,4 +4,9 @@
 .my-btn {
   background: #7952b3ff;
   color: white;
+  font-weight: bold;
+}
+#nav-login:hover {
+  color: #7952b3ff;
+  background: white;
 }
